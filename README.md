@@ -12,3 +12,5 @@
 
 ### 3차 목표 </br>
 책 집필 </br>
+
+Collaborated with @[Wshid](https://github.com/Wshid)
