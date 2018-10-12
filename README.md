@@ -1,3 +1,13 @@
+>
+>   __A dream you dream alone is only a dream.__</br>
+>   __A dream you dream together is reality.__</br>
+>                                           
+
+>by John Lennon
+
+</br></br>
+
+
 ## 목적 </br>
 공부, Trouble shooting 하며 찾은 링크들 중, 혼자 보기 아까운 좋은 링크들을 공유하여 서로 도움이 될 수 있도록 한다. </br>
 
