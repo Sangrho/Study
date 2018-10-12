@@ -28,6 +28,6 @@
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
 @[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
-@[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 in KB Securities</br>**
-
+@[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 in KB Securities</br>
+@[tovec](https://github.com/tovec) : Spark 개발 in NBP</br>**
 
