@@ -27,4 +27,4 @@
 @[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
 @[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 in KB Securities</br>
 @[yysun21](https://github.com/yysun21) : Spark 개발 in SKT </br>
-@[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 **
+@[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발**
