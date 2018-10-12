@@ -23,8 +23,8 @@
 ------------------------------
 
 **Collaborated with </br>
-@[Wshid](https://github.com/Wshid) : Spark 전문가 in Students </br>
-@[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 전문가 in KTNexR</br>
-@[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 전문가 in KB Securities</br>
-@[yysun21](https://github.com/yysun21) : Spark 전문가 in SKT**
+@[Wshid](https://github.com/Wshid) : Spark 개발 in Students </br>
+@[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
+@[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 in KB Securities</br>
+@[yysun21](https://github.com/yysun21) : Spark 개발 in SKT**
  
