@@ -15,4 +15,4 @@
 
 ------------------------------
 
-**Collaborated with @[Wshid](https://github.com/Wshid)**
+**Collaborated with @[Wshid](https://github.com/Wshid) @[sincerity10](https://github.com/sincerity10)**
