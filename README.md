@@ -15,4 +15,8 @@
 
 ------------------------------
 
-**Collaborated with @[Wshid](https://github.com/Wshid) @[sincerity10](https://github.com/sincerity10)**
+**Collaborated with </br>
+@[Wshid](https://github.com/Wshid) : Spark 전문가 </br>
+@[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 전문가</br>
+@[JunyoungJang](https://github.com/JunyoungJang) : 머신러닝 전문가 (Quant)</br>**
+ 
