@@ -40,6 +40,7 @@ Collaborated with </br>
 @[tovec](https://github.com/tovec) : Spark 개발 in NBP</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
 @[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
+@[buckyhan](https://github.com/buckyhan) : Computer in Jehmi</br>
 
 **[ 운영 ]** </br>
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
