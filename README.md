@@ -36,19 +36,20 @@
 * **Note 폴더** : 책 집필, Meet-up 발표 등 </br>
 ------------------------------
 
-Collaborated with </br>
+## Writers </br></br>
 **[ 개발 ]** </br>
 @[Wshid](https://github.com/Wshid) : Spark 개발 in Students </br>
 @[yysun21](https://github.com/yysun21) : Spark 개발 in SKT </br>
 @[tovec](https://github.com/tovec) : Spark 개발 in NBP</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
 @[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
-@[buckyhan](https://github.com/buckyhan) : Computer in Jehmi</br>
+@[buckyhan](https://github.com/buckyhan) : Computer in Jehmi, inc.</br>
 
 **[ 운영 ]** </br>
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
 @[manu625](https://github.com/manu625) : Hadoop 클러스터 운영 in KTNexR </br>
 @[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
+@[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in Jehmi, inc.</br>
 
 **[ 머신러닝 ]** </br>
 @[JunyoungJang](https://github.com/JunyoungJang) : Machine Learning in KB Securities</br>
