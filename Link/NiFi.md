@@ -40,6 +40,11 @@ https://www.popit.kr/bigdata-platform-based-on-nifi/ </br>
 * Web scraping with NiFi and Scrapy via the ExecuteProcess processor</br>
 https://community.hortonworks.com/articles/136178/web-scraping-with-nifi-and-scrapy-via-the-executep.html </br>
 
+* Change Data Capture (CDC) with Apache NiFi  </br>
+https://community.hortonworks.com/articles/113941/change-data-capture-cdc-with-apache-nifi-version-1-1.html</br>
+https://community.hortonworks.com/articles/112983/change-data-capture-cdc-with-apache-nifi-part-2.html</br>
+https://community.hortonworks.com/articles/113041/change-data-capture-cdc-with-apache-nifi-part-3.html </br>
+
 ### 비교
 * Open Source ETL: Apache NiFi vs Streamsets </br>
 https://statsbot.co/blog/open-source-etl/ </br>
