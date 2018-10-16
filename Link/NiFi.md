@@ -39,3 +39,10 @@ https://www.popit.kr/bigdata-platform-based-on-nifi/ </br>
 
 * Web scraping with NiFi and Scrapy via the ExecuteProcess processor</br>
 https://community.hortonworks.com/articles/136178/web-scraping-with-nifi-and-scrapy-via-the-executep.html </br>
+
+### 비교
+* Open Source ETL: Apache NiFi vs Streamsets </br>
+https://statsbot.co/blog/open-source-etl/ </br>
+
+* StreamSets VS Apache NiFi </br>
+http://predera.com/streamsets-vs-apache-nifi/ </br>
