@@ -18,6 +18,9 @@ https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/653
 * 스트림 저장소 최적화 이야기: 아파치 드루이드로부터 얻은 교훈</br>
 https://deview.kr/2018/schedule/229</br>
 
+* Druid 파헤치기 - 입문</br>
+http://icednut.github.io/2018/03/05/20180305-start-druid/ </br>
+
 ### 정유선님 강의
 * Time series OLAP - Druid 입문(1) </br>
 https://www.popit.kr/time-series-olap-druid-입문/ </br>
