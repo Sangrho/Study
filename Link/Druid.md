@@ -63,6 +63,9 @@ https://neontapir.github.io/professional/2017/02/10/ingest-csv-druid/ </br>
 
 ### 8차 Druid Meet-up </br>
 * 허정수, NHN : Web analytics at scale with Druid at naver.com - Part 1 </br>
-(https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/65329) </br>
-* 손지훈(phD), Imply : 스트림 저장소 최적화 이야기: 아파치 드루이드로부터 얻은 교훈(https://deview.kr/2018/schedule/229) </br>
-* 류승우, SKT : Spatial index optimization using Lucene index and GIS query support  </br>(https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/9d31a2c8e70fc2435) </br>
+https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/65329 </br>
+
+* 손지훈(phD), Imply : 스트림 저장소 최적화 이야기: 아파치 드루이드로부터 얻은 교훈 </br>
+https://www.slideshare.net/deview/236-deview2018-jihoonson-final-119168567 </br>
+
+* 류승우, SKT : Spatial index optimization using Lucene index and GIS query support  </br> </br>https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/9d31a2c8e70fc2435 </br>
