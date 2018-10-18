@@ -7,3 +7,5 @@ https://youtu.be/o9aVjBHEEbU</br>
 * 토플 라이팅 통합형 템플릿 </br>
 https://blog.naver.com/toptoefl_/221332818373</br>
 
+* 샘플 1</br>
+https://www.toeflresources.com/sample-toefl-essays/sample-toefl-integrated-essay-professors-on-television
