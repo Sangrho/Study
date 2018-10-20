@@ -3,6 +3,9 @@
 * Streaming Platform으로써의 Apache Kafka </br>
 https://readme.skplanet.com/?p=13802 </br>
 
+* Observer vs pub-sub pattern </br>
+https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c </br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
