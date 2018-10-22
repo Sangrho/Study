@@ -3,9 +3,6 @@
 * Streaming Platform으로써의 Apache Kafka </br>
 https://readme.skplanet.com/?p=13802 </br>
 
-* Observer vs pub-sub pattern </br>
-https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c </br>
-
 ### 비교
 
 * Kafka vs RabbitMQ </br>
@@ -15,6 +12,9 @@ http://hamait.tistory.com/405?category=138704 </br>
 
 * Kafka vs Flume </br>
 http://hamait.tistory.com/439?category=138704 </br>
+
+* Observer vs pub-sub pattern </br>
+https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c </br>
 
 ### 모니터링
 
@@ -63,6 +63,9 @@ https://kafka-python.readthedocs.io/en/master/usage.html </br>
 
 * kafka-docker(wurstmeister) </br>
 https://github.com/wurstmeister/kafka-docker </br>
+
+* How to use kafka-docker </br>
+https://hub.docker.com/r/wurstmeister/kafka/ <br>
 
 ### 고승범씨 강의 
 
