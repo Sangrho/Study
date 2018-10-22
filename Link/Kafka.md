@@ -59,6 +59,11 @@ https://blog.imaginea.com/how-to-rebalance-topics-in-kafka-cluster/ </br>
 * kafka-python usage </br>
 https://kafka-python.readthedocs.io/en/master/usage.html </br>
 
+### kafka-docker
+
+* kafka-docker(wurstmeister) </br>
+https://github.com/wurstmeister/kafka-docker </br>
+
 ### 고승범씨 강의 
 
 * Kafka 운영자가 말하는 처음 접하는 Kafka </br>
