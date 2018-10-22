@@ -98,3 +98,6 @@ http://epicdevs.com/22?category=460351 </br>
 * [Apache Kafka] 5. Zookeeper 트리 분석 </br>
 http://epicdevs.com/23?category=460351 </br>
 
+* How to Lose Messages on a Kafka Cluster </br>
+https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1 </br>
+https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2 </br>
