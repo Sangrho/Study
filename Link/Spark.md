@@ -26,6 +26,9 @@ http://bytecontinnum.com/2015/10/ioss/ </br>
 * Apache Spark Scheduler </br>
 https://databricks.com/session/apache-spark-scheduler </br>
 
+* Spark Internals of v1.0.2(고대 유물)
+https://github.com/JerryLead/SparkInternals
+
 ### Streaming
 
 * Spark Streaming으로 유실 없는 스트림 처리 인프라 구축하기 </br>
