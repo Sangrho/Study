@@ -21,6 +21,9 @@ https://deview.kr/2018/schedule/229</br>
 * Druid 파헤치기 - 입문</br>
 http://icednut.github.io/2018/03/05/20180305-start-druid/ </br>
 
+* Concepts, techniques and papers to build a time-series database </br>
+https://blog.slicingdice.com/want-to-build-a-new-time-series-database-start-here-d4c3fd1517b1 </br>
+
 ### 정유선님 강의
 * Time series OLAP - Druid 입문(1) </br>
 https://www.popit.kr/time-series-olap-druid-입문/ </br>
