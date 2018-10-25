@@ -3,6 +3,9 @@
 * Streaming Platform으로써의 Apache Kafka </br>
 https://readme.skplanet.com/?p=13802 </br>
 
+* Kafka 통신 프로토콜 가이드 </br>
+https://colobu.com/2017/01/26/A-Guide-To-The-Kafka-Protocol/</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
@@ -15,6 +18,19 @@ http://hamait.tistory.com/439?category=138704 </br>
 
 * Observer vs pub-sub pattern </br>
 https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c </br>
+
+* Kafka with selective acknowledgments (kmq) performance & latency benchmark</br>
+https://softwaremill.com/kafka-with-selective-acknowledgments-performance/</br>
+
+### 사용사례 
+
+* Apache Kafka Best Practices </br>
+https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices</br>
+
+### KSQL
+
+* Introducing KSQL: Open Source Streaming SQL for Apache Kafka </br>
+https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/ </br>
 
 ### 모니터링
 
