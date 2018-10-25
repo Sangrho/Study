@@ -1,3 +1,6 @@
+* Metatron Conference 2018 </br>
+https://developers.sktelecom.com/story/forum/detail.do?forumid=73 </br>
+
 * cloudera sessions 2018 (2018.11.8)</br>
 
 https://kr.cloudera.com/clouderasessions2018
