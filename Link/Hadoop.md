@@ -23,10 +23,16 @@ https://mapr.com/blog/best-practices-yarn-resource-management/ </br>
 * Headroom Miscalculation can lead to Deadlock in Hadoop Two </br>
 http://johnjianfang.blogspot.com/2014/09/headroom-miscalculation-can-lead-to.html </br>
 
+* 하둡2 YARN 맵리듀스 리소스 설정하기 : How to configure MapReduce YARN parameters</br>
+http://blrunner.com/103</br>
+
 ### 튜닝
 
 * Tuning YARN </br>
 https://www.cloudera.com/documentation/enterprise/5-3-x/topics/cdh_ig_yarn_tuning.html </br>
+
+* hadoop cluster OS Tuning </br>
+https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile</br>
 
 ### 모니터링 
 
@@ -40,6 +46,9 @@ https://www.datadoghq.com/blog/monitor-hadoop-metrics/ </br>
 
 * 업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기 </br>
 https://www.popit.kr/업그레이드를-부르는-hadoop-3-0-신규-기능-살펴보기/ </br>
+
+* Comparison Between Hadoop 2.x vs Hadoop 3.x</br>
+http://data-flair.training/blogs/comparison-difference-between-hadoop-2-x-vs-hadoop-3-x/</br>
 
 ### 운영 
 
@@ -57,6 +66,9 @@ https://www.popit.kr/db-데이터를-hadoop에-저장-시-삽질-두가지/ </br
 
 * Standby NameNode 실행하기 </br>
 https://www.popit.kr/standby-namenode-실행하기/ </br>
+
+* How to Set Up Hadoop Cluster with HDFS High Availability</br>
+https://www.edureka.co/blog/how-to-set-up-hadoop-cluster-with-hdfs-high-availability/</br>
 
 ### 사용사례
 
