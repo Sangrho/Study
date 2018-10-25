@@ -43,6 +43,11 @@ https://www.popit.kr/time-series-olap-druid-glue-architecture/ </br>
 * Time Series OLAP - Druid Trouble Shooting(6) </br>
 https://www.popit.kr/time-series-olap-druid-trouble-shooting/ </br>
 
+### Segment
+
+* The anatomy of a Druid segment file</br>
+https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e#.xkykulev7</br>
+
 ### 튜닝
 
 * Maximum Performance with Minimum Storage: Data Compression in Druid </br>
