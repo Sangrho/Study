@@ -9,6 +9,9 @@ https://colobu.com/2017/01/26/A-Guide-To-The-Kafka-Protocol/</br>
 * 20 Best Practices for Working With Apache Kafka at Scale </br>
 https://blog.newrelic.com/engineering/kafka-best-practices/</br>
 
+* 카프카 tutorial 강좌들 '>' 클릭하면 계속 강좌 나옴</br>
+https://www.learningjournal.guru/courses/kafka/kafka-foundation-training/</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
@@ -43,10 +46,28 @@ https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/ <
 * Kafka Monitoring </br>
 https://data-flair.training/blogs/kafka-monitoring/ </br>
 
+* Kafka manager</br>
+https://github.com/yahoo/kafka-manager</br>
+
+* Burrow</br>
+https://github.com/linkedin/Burrow</br>
+
+* Kafka offset Monitor (3년 전이 마지막 수정..현 카프카 버전과 안맞는게 많지 않을까)</br>
+https://github.com/quantifind/KafkaOffsetMonitor</br>
+
 ### Rebalance 
 
 * Partitions Rebalance in Kafka </br>
 https://www.linkedin.com/pulse/partitions-rebalance-kafka-raghunandan-gupta/
+
+* The Kafka topic partitions do not re-balance itself if one of Kafka broker in ISR is down and remains under-replicated </br>
+https://community.hortonworks.com/content/supportkb/189958/the-kafka-topic-partitions-do-not-re-balance-itsel.html </br>
+
+* Kafka Consumer Assignments</br>
+https://www.signal.co/dev-log/kafka-consumer-assignments/</br>
+
+* Apache Kafka Foundation Course - Rebalance Listener</br>
+https://www.learningjournal.guru/courses/kafka/kafka-foundation-training/rebalance-listener/</br>
 
 ### 튜닝
 
@@ -66,6 +87,11 @@ https://www.opsclarity.com/understanding-kafka-consumer-lag/ </br>
 
 * how_to_reset_kafka_consumer_group_offset </br>
 https://gist.github.com/marwei/cd40657c481f94ebe273ecc16601674b </br>
+
+### Partition
+
+* What I have learned from Kafka partition assignment strategy</br>
+https://medium.com/@anyili0928/what-i-have-learned-from-kafka-partition-assignment-strategy-799fdf15d3ab </br>
 
 ### Internal
 
