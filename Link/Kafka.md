@@ -12,6 +12,9 @@ https://blog.newrelic.com/engineering/kafka-best-practices/</br>
 * 카프카 tutorial 강좌들 '>' 클릭하면 계속 강좌 나옴</br>
 https://www.learningjournal.guru/courses/kafka/kafka-foundation-training/</br>
 
+* KAFKA: IMPLEMENTING STREAM ARCHITECTURES </br>
+https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
