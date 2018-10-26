@@ -37,6 +37,11 @@ https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/ <
 * Kafka Monitoring </br>
 https://data-flair.training/blogs/kafka-monitoring/ </br>
 
+## Rebalance 
+
+* Partitions Rebalance in Kafka </br>
+https://www.linkedin.com/pulse/partitions-rebalance-kafka-raghunandan-gupta/
+
 ### 튜닝
 
 * Kafka Performance Tuning </br>
