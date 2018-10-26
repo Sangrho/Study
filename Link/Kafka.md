@@ -15,6 +15,9 @@ https://www.learningjournal.guru/courses/kafka/kafka-foundation-training/</br>
 * KAFKA: IMPLEMENTING STREAM ARCHITECTURES </br>
 https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br>
 
+* Kafka Streams for Stream processing</br>
+https://balamaci.ro/kafka-streams-for-stream-processing/</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
