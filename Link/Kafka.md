@@ -6,6 +6,9 @@ https://readme.skplanet.com/?p=13802 </br>
 * Kafka 통신 프로토콜 가이드 </br>
 https://colobu.com/2017/01/26/A-Guide-To-The-Kafka-Protocol/</br>
 
+* 20 Best Practices for Working With Apache Kafka at Scale </br>
+https://blog.newrelic.com/engineering/kafka-best-practices/</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
