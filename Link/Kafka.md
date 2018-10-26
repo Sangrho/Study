@@ -27,9 +27,6 @@ https://softwaremill.com/kafka-with-selective-acknowledgments-performance/</br>
 * Apache Kafka Best Practices </br>
 https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices</br>
 
-* Spring Kafka Integration | Unit Testing using Embedded Kafka</br>
-https://www.linkedin.com/pulse/spring-kafka-integration-unit-testing-using-embedded-gupta/</br>
-
 * How we migrated from Cron oriented Facebook Feed to NRT Feed!!!</br>
 https://www.linkedin.com/pulse/how-we-migrated-from-cron-oriented-facebook-feed-nrt-gupta/</br>
 
@@ -80,6 +77,11 @@ https://metabroadcast.com/blog/resetting-kafka-offsets </br>
 
 * How to Rebalance Topics in a Kafka Cluster </br>
 https://blog.imaginea.com/how-to-rebalance-topics-in-kafka-cluster/ </br>
+
+### kafka-spring
+
+* Spring Kafka Integration | Unit Testing using Embedded Kafka</br>
+https://www.linkedin.com/pulse/spring-kafka-integration-unit-testing-using-embedded-gupta/</br>
 
 ### kafka-python
 
