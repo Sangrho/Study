@@ -12,6 +12,9 @@ http://tomining.tistory.com/84?category=114917 </br>
 * [spark2] cache()와 persist()의 차이 </br>
 http://knight76.tistory.com/entry/spark2-cache와-persist의-차이  </br>
 
+* Spark tutorial 강좌들 '>' 클릭하면 계속 강좌 나옴</br>
+https://www.learningjournal.guru/courses/spark/spark-foundation-training/</br>
+
 ### Internal
 
 * Spark Project Tungsten </br>
