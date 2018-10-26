@@ -1,3 +1,7 @@
+### 소개
+* Hadoop tutorial 강좌들 '>' 클릭하면 계속 강좌 나옴</br>
+https://www.learningjournal.guru/courses/hadoop/hadoop-foundation-training/</br>
+
 ### Yarn 소개
 
 * Hadoop Yarn Tutorial for Beginners </br>
