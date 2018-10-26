@@ -27,6 +27,12 @@ https://softwaremill.com/kafka-with-selective-acknowledgments-performance/</br>
 * Apache Kafka Best Practices </br>
 https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices</br>
 
+* Spring Kafka Integration | Unit Testing using Embedded Kafka</br>
+https://www.linkedin.com/pulse/spring-kafka-integration-unit-testing-using-embedded-gupta/</br>
+
+* How we migrated from Cron oriented Facebook Feed to NRT Feed!!!</br>
+https://www.linkedin.com/pulse/how-we-migrated-from-cron-oriented-facebook-feed-nrt-gupta/</br>
+
 ### KSQL
 
 * Introducing KSQL: Open Source Streaming SQL for Apache Kafka </br>
