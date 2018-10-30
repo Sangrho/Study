@@ -4,3 +4,7 @@ http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=A7B65FB668879F38C7
 
 * Data pipeline example</br>
 http://xyz.insightdataengineering.com/blog/pipeline_map/</br>
+
+* 구글의 데이터 처리 기술은 얼마나 대단할까?</br>
+http://eincs.com/2013/08/why-google-is-great-tech-company/</br>
+
