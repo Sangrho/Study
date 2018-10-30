@@ -123,6 +123,23 @@ https://metabroadcast.com/blog/resetting-kafka-offsets </br>
 * How to Rebalance Topics in a Kafka Cluster </br>
 https://blog.imaginea.com/how-to-rebalance-topics-in-kafka-cluster/ </br>
 
+### kafka mirroring
+
+* Kafka mirroring (MirrorMaker) </br>
+https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330</br>
+
+* Apache Kafka’s MirrorMaker</br> 
+https://docs.confluent.io/current/multi-dc-replicator/mirrormaker.html</br>
+
+* Kafka Mirror Maker Best Practices </br>
+https://community.hortonworks.com/articles/79891/kafka-mirror-maker-best-practices.html</br>
+
+* Kafka MirrorMaker: Disaster Recovery, Scaling Reads, Isolate Mission Critical Operations </br>
+https://www.slideshare.net/JeanPaulAzar1/kafka-mirrormaker-disaster-recovery-scaling-reads-isolate-mission-critical-operations <br>
+
+* Kafka mirror maker - Part2 - Tutorial/Code</br>
+https://www.linkedin.com/pulse/kafka-mirror-maker-part2-tutorialcode-neeraj-sabharwal/ </br>
+
 ### kafka-spring
 
 * Spring Kafka Integration | Unit Testing using Embedded Kafka</br>
