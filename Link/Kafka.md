@@ -18,6 +18,11 @@ https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br
 * Kafka Streams for Stream processing</br>
 https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 
+### Produce 
+
+* KAFKA TUTORIAL: CREATING ADVANCED KAFKA PRODUCERS IN JAVA </br>
+http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html?fbclid=IwAR0cmkLp2colKRfgeRbKr_9Sa0T7wLnLSH5Iu_pwL8musCBtzzrJdnEKwJ0 </br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
@@ -98,6 +103,11 @@ https://gist.github.com/marwei/cd40657c481f94ebe273ecc16601674b </br>
 
 * What I have learned from Kafka partition assignment strategy</br>
 https://medium.com/@anyili0928/what-i-have-learned-from-kafka-partition-assignment-strategy-799fdf15d3ab </br>
+
+### Compression
+
+* Kafka 0.10 Compression Benchmark </br>
+http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/?fbclid=IwAR0F2l0pkdKNl2SGvOgEZAKUBObEqOUyoBlA76IHsOFaWSGwEdDgaVnha3A </br>
 
 ### Internal
 
