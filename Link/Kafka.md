@@ -18,6 +18,9 @@ https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br
 * Kafka Streams for Stream processing</br>
 https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 
+* Why Is Kafka So Fast</br>
+http://searene.me/2017/07/09/Why-is-Kafka-so-fast/</br>
+
 ### Produce 
 
 * KAFKA TUTORIAL: CREATING ADVANCED KAFKA PRODUCERS IN JAVA </br>
