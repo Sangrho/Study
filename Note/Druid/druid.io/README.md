@@ -3,7 +3,11 @@ Druid 공식홈페이지의 Docs 를 번역하여, 이해를 돕는다. </br>
 
 URL : http://druid.io/docs/latest/design/
 
-### Design 
+-----------------------
+
+## Getting Started
+
+### [Design](http://druid.io/docs/latest/design/index.html) 
 [What is Druid?](http://druid.io/docs/latest/design/index.html#what-is-druid) </br>
 [When should I use Druid](http://druid.io/docs/latest/design/index.html#when-to-use-druid) </br>
 [Architecture](http://druid.io/docs/latest/design/index.html#architecture) </br>
@@ -12,44 +16,47 @@ URL : http://druid.io/docs/latest/design/
 [External dependencies](http://druid.io/docs/latest/design/index.html#external-dependencies) </br>
 [Ingestion overview](http://druid.io/docs/latest/ingestion/index.html) </br>
 
-### Quickstart
-Tutorial: Loading a file </br>
-Tutorial: Loading stream data from Kafka </br>
-Tutorial: Loading a file using Hadoop </br>
-Tutorial: Loading stream data using HTTP push </br>
-Tutorial: Querying data </br>
-Further tutorials </br>
-Tutorial: Rollup </br>
-Tutorial: Configuring retention </br>
-Tutorial: Updating existing data </br>
-Tutorial: Compacting segments </br>
-Tutorial: Deleting data </br>
-Tutorial: Writing your own ingestion specs </br>
-Tutorial: Transforming input data </br>
-Clustering </br>
+### [Quickstart](http://druid.io/docs/latest/tutorials/index.html)
+[Tutorial: Loading a file](http://druid.io/docs/latest/tutorials/tutorial-batch.html) </br>
+[Tutorial: Loading stream data from Kafka](http://druid.io/docs/latest/tutorials/tutorial-kafka.html) </br>
+[Tutorial: Loading a file using Hadoop](http://druid.io/docs/latest/tutorials/tutorial-batch-hadoop.html) </br>
+[Tutorial: Loading stream data using HTTP push](http://druid.io/docs/latest/tutorials/tutorial-tranquility.html) </br>
+[Tutorial: Querying data](http://druid.io/docs/latest/tutorials/tutorial-query.html) </br>
 
-### Data Ingestion
+### Further tutorials
 
-Ingestion overview </br>
-Data Formats </br>
-Tasks Overview </br>
-Ingestion Spec </br>
-Transform Specs </br>
-Firehoses </br>
-Schema Design </br>
-Schema Changes </br>
-Batch File Ingestion </br>
-Native Batch Ingestion </br>
-Hadoop Batch Ingestion
-Stream Ingestion </br>
-Kafka Indexing Service (Stream Pull) </br>
-Stream Push </br>
-Compaction </br>
-Updating Existing Data </br>
-Deleting Data </br>
-Task Locking & Priority </br>
-FAQ </br>
-Misc. Tasks </br>
+[Tutorial: Rollup](http://druid.io/docs/latest/tutorials/tutorial-rollup.html) </br>
+[Tutorial: Configuring retention](http://druid.io/docs/latest/tutorials/tutorial-retention.html) </br>
+[Tutorial: Updating existing data](http://druid.io/docs/latest/tutorials/tutorial-update-data.html) </br>
+[Tutorial: Compacting segments](http://druid.io/docs/latest/tutorials/tutorial-compaction.html) </br>
+[Tutorial: Deleting data](http://druid.io/docs/latest/tutorials/tutorial-delete-data.html) </br>
+[Tutorial: Writing your own ingestion specs](http://druid.io/docs/latest/tutorials/tutorial-ingestion-spec.html) </br>
+[Tutorial: Transforming input data](http://druid.io/docs/latest/tutorials/tutorial-transform-spec.html) </br>
+
+### [Clustering](http://druid.io/docs/latest/tutorials/cluster.html) </br>
+
+## Data Ingestion
+
+[Ingestion overview](http://druid.io/docs/latest/ingestion/index.html) </br>
+[Data Formats](http://druid.io/docs/latest/ingestion/data-formats.html) </br>
+[Tasks Overview](http://druid.io/docs/latest/ingestion/tasks.html) </br>
+[Ingestion Spec](http://druid.io/docs/latest/ingestion/ingestion-spec.html) </br>
+[Transform Specs](http://druid.io/docs/latest/ingestion/transform-spec.html) </br>
+[Firehoses](http://druid.io/docs/latest/ingestion/firehose.html) </br>
+[Schema Design](http://druid.io/docs/latest/ingestion/schema-design.html) </br>
+[Schema Changes](http://druid.io/docs/latest/ingestion/schema-changes.html) </br>
+[Batch File Ingestion](http://druid.io/docs/latest/ingestion/batch-ingestion.html) </br>
+[Native Batch Ingestion](http://druid.io/docs/latest/ingestion/native-batch.html) </br>
+[Hadoop Batch Ingestion](http://druid.io/docs/latest/ingestion/hadoop.html)</br>
+[Stream Ingestion](http://druid.io/docs/latest/ingestion/stream-ingestion.html) </br>
+[Kafka Indexing Service (Stream Pull)](http://druid.io/docs/latest/development/extensions-core/kafka-ingestion.html) </br>
+[Stream Push](http://druid.io/docs/latest/ingestion/stream-push.html) </br>
+[Compaction](http://druid.io/docs/latest/ingestion/compaction.html) </br>
+[Updating Existing Data](http://druid.io/docs/latest/ingestion/update-existing-data.html) </br>
+[Deleting Data](http://druid.io/docs/latest/ingestion/delete-data.html) </br>
+[Task Locking & Priority](http://druid.io/docs/latest/ingestion/locking-and-priority.html) </br>
+[FAQ](http://druid.io/docs/latest/ingestion/faq.html) </br>
+[Misc. Tasks](http://druid.io/docs/latest/ingestion/misc-tasks.html) </br>
 
 ### Querying 
 
