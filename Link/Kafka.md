@@ -18,8 +18,16 @@ https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br
 * Kafka Streams for Stream processing</br>
 https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 
+### Zero copy
+
 * Why Is Kafka So Fast</br>
 http://searene.me/2017/07/09/Why-is-Kafka-so-fast/</br>
+
+* Here’s what makes Apache Kafka so fast</br>
+https://medium.freecodecamp.org/what-makes-apache-kafka-so-fast-a8d4f94ab145</br>
+
+* Efficient data transfer through zero copy</br>
+https://www.ibm.com/developerworks/library/j-zerocopy/index.html</br>
 
 ### Produce 
 
