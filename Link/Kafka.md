@@ -34,6 +34,9 @@ https://www.ibm.com/developerworks/library/j-zerocopy/index.html</br>
 * KAFKA TUTORIAL: CREATING ADVANCED KAFKA PRODUCERS IN JAVA </br>
 http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html?fbclid=IwAR0cmkLp2colKRfgeRbKr_9Sa0T7wLnLSH5Iu_pwL8musCBtzzrJdnEKwJ0 </br>
 
+* Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송</br>
+http://readme.skplanet.com/?p=13042</br>
+
 ### 비교
 
 * Kafka vs RabbitMQ </br>
@@ -114,6 +117,9 @@ https://gist.github.com/marwei/cd40657c481f94ebe273ecc16601674b </br>
 
 * What I have learned from Kafka partition assignment strategy</br>
 https://medium.com/@anyili0928/what-i-have-learned-from-kafka-partition-assignment-strategy-799fdf15d3ab </br>
+
+* How to choose the number of topics/partitions in a Kafka cluster?</br>
+https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster</br>
 
 ### Compression
 
