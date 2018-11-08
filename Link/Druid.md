@@ -80,3 +80,8 @@ https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/653
 https://www.slideshare.net/deview/236-deview2018-jihoonson-final-119168567 </br>
 
 * 류승우, SKT : Spatial index optimization using Lucene index and GIS query support  </br> </br>https://apachecon.dukecon.org/acna/2018/#/scheduledEvent/9d31a2c8e70fc2435 </br>
+
+### 비교
+
+* Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid and Pinot </br>
+https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7
