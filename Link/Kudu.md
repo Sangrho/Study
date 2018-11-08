@@ -5,3 +5,6 @@ https://d2.naver.com/helloworld/9099561 </br>
 
 * Apache Kudu: Fast Analytics on Fast Data, Dan Burkert, Software Engineer, Cloudera </br>
 https://www.slideshare.net/sawjd/big-data-day-la-2016-nosql-track-apache-kudu-fast-analytics-on-fast-data-dan-burkert-software-engineer-cloudera</br>
+
+* Cloudera's Kudu: Like HDFS and HBase in one</br>
+https://www.infoworld.com/article/2986675/hadoop/cloudera-kudu-hdfs-hbase-in-one.html</br>
