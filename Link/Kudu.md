@@ -8,3 +8,6 @@ https://www.slideshare.net/sawjd/big-data-day-la-2016-nosql-track-apache-kudu-fa
 
 * Cloudera's Kudu: Like HDFS and HBase in one</br>
 https://www.infoworld.com/article/2986675/hadoop/cloudera-kudu-hdfs-hbase-in-one.html</br>
+
+* Apache Kudu architecture analysis</br>
+http://www.doanduyhai.com/blog/?p=13466</br>
