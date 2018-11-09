@@ -42,14 +42,14 @@
 @[tovec](https://github.com/tovec) : Spark 개발 in NBP</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
 @[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
-@[buckyhan](https://github.com/buckyhan) : Computer in Jehmi, inc.</br>
+@[buckyhan](https://github.com/buckyhan) : Computer in LINE Plus</br>
 
 
 **[ 운영 ]** </br>
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
 @[manu625](https://github.com/manu625) : Hadoop 클러스터 운영 in KTNexR </br>
 @[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
-@[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in Jehmi, inc.</br>
+@[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Corp</br>
 
 **[ 머신러닝 ]** </br>
 @[JunyoungJang](https://github.com/JunyoungJang) : Machine Learning in KB Securities</br>
