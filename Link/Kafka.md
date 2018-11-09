@@ -18,6 +18,9 @@ https://alexandreesl.com/2018/01/21/kafka-implementing-stream-architectures/</br
 * Kafka Streams for Stream processing</br>
 https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 
+* Kafka Streams for Stream processing extended version</br>
+https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended?slide=18</br>
+
 ### Zero copy
 
 * Why Is Kafka So Fast</br>
