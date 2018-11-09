@@ -49,7 +49,7 @@
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
 @[manu625](https://github.com/manu625) : Hadoop 클러스터 운영 in KTNexR </br>
 @[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
-@[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Corp</br>
+@[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Plus</br>
 
 **[ 머신러닝 ]** </br>
 @[JunyoungJang](https://github.com/JunyoungJang) : Machine Learning in KB Securities</br>
