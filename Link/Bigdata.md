@@ -8,3 +8,5 @@ http://xyz.insightdataengineering.com/blog/pipeline_map/</br>
 * 구글의 데이터 처리 기술은 얼마나 대단할까?</br>
 http://eincs.com/2013/08/why-google-is-great-tech-company/</br>
 
+* Open Source, Big Data and Everything</br>
+https://speakerdeck.com/dongjin/open-source-big-data-and-everything-extended?slide=3</br>
