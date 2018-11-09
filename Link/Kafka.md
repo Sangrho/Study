@@ -53,6 +53,9 @@ https://hackernoon.com/observer-vs-pub-sub-pattern-50d3b27f838c </br>
 * Kafka with selective acknowledgments (kmq) performance & latency benchmark</br>
 https://softwaremill.com/kafka-with-selective-acknowledgments-performance/</br>
 
+* Kafka Streams vs Spark Structured Streaming </br>
+https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming</br>
+
 ### 사용사례 
 
 * Apache Kafka Best Practices </br>
