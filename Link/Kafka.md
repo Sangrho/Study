@@ -127,6 +127,11 @@ https://medium.com/@anyili0928/what-i-have-learned-from-kafka-partition-assignme
 * How to choose the number of topics/partitions in a Kafka cluster?</br>
 https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster</br>
 
+### Format
+
+* Why Avro For Kafka Data?</br>
+https://www.confluent.io/blog/avro-kafka-data/?fbclid=IwAR2eIKfUEmZzOQGvd4-H4ln00H4dv_AkwjN6hqzEAucanSFCdU-IPGAhe7s</br>
+
 ### Compression
 
 * Kafka 0.10 Compression Benchmark </br>
