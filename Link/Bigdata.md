@@ -10,3 +10,9 @@ http://eincs.com/2013/08/why-google-is-great-tech-company/</br>
 
 * Open Source, Big Data and Everything</br>
 https://speakerdeck.com/dongjin/open-source-big-data-and-everything-extended?slide=3</br>
+
+* Data Engineering 101</br>
+https://www.slideshare.net/charsyam2/data-engineering-101?fbclid=IwAR0BBCSaB4oJ-X0YtHIL9jgfg0MdluG8XPTzwZY3RhD4fnKG5NVlPbj-g0I</br>
+
+* 네이버 메인 페이지의 트래픽 처리</br>
+https://d2.naver.com/helloworld/6070967?fbclid=IwAR3Gr7s20EpuMZV8_6uPcM7RxNnvjun_ZpSg09qEZDIWJtRKHpcmL5zoM5s</br>
