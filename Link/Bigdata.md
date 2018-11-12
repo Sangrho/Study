@@ -16,3 +16,6 @@ https://www.slideshare.net/charsyam2/data-engineering-101?fbclid=IwAR0BBCSaB4oJ-
 
 * 네이버 메인 페이지의 트래픽 처리</br>
 https://d2.naver.com/helloworld/6070967?fbclid=IwAR3Gr7s20EpuMZV8_6uPcM7RxNnvjun_ZpSg09qEZDIWJtRKHpcmL5zoM5s</br>
+
+* 아주 심플한 검색엔진의 원리</br>
+https://www.slideshare.net/charsyam2/soma-search</br>
