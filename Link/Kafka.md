@@ -168,6 +168,9 @@ https://www.linkedin.com/pulse/kafka-mirror-maker-part2-tutorialcode-neeraj-sabh
 * Spring Kafka Integration | Unit Testing using Embedded Kafka</br>
 https://www.linkedin.com/pulse/spring-kafka-integration-unit-testing-using-embedded-gupta/</br>
 
+* How to Work with Apache Kafka in Your Spring Boot Application </br>
+https://www.confluent.io/blog/apache-kafka-spring-boot-application?fbclid=IwAR0fu-XVl88wFNmuVw3VnJEbp_HkhIdt8jQQfb_L6t_NsVjCMduz5jauEo4</br>
+
 ### kafka-python
 
 * kafka-python usage </br>
