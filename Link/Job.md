@@ -9,3 +9,5 @@ https://brunch.co.kr/@jayjayjay/10</br>
 * How To Become Better Engineer</br>
 https://www.slideshare.net/charsyam2/how-to-become-better-engineer?next_slideshow=1</br>
 
+* 오픈소스 개발자의 공부방법</br>
+https://www.slideshare.net/charsyam2/how-to-study-77423848</br>
