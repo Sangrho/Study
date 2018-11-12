@@ -127,6 +127,9 @@ https://medium.com/@anyili0928/what-i-have-learned-from-kafka-partition-assignme
 * How to choose the number of topics/partitions in a Kafka cluster?</br>
 https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster</br>
 
+* Apache Kafka Supports 200K Partitions Per Cluster </br>
+https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster?fbclid=IwAR0I37-RMBvS4PQffZn7BQYokl5mmx4JNksBmf5OLMgGjHEfyakBlp28biU</br>
+
 ### Format
 
 * Why Avro For Kafka Data?</br>
