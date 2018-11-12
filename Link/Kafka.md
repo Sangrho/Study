@@ -132,6 +132,9 @@ https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster<
 * Why Avro For Kafka Data?</br>
 https://www.confluent.io/blog/avro-kafka-data/?fbclid=IwAR2eIKfUEmZzOQGvd4-H4ln00H4dv_AkwjN6hqzEAucanSFCdU-IPGAhe7s</br>
 
+* Introduction to Schemas in Apache Kafka with the Confluent Schema Registry</br>
+https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321?fbclid=IwAR3BMcwdcHp4_cdD1oRIxISabHs7KY9MMW1k48HUU8zU8ljdwskqUud9UXk</br>
+
 ### Compression
 
 * Kafka 0.10 Compression Benchmark </br>
