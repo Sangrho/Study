@@ -9,3 +9,7 @@ https://blog.naver.com/kmk1030/220700903506 </br>
 
 * Paxos Algorithm Paper  </br>
 https://lamport.azurewebsites.net/pubs/paxos-simple.pdf </br>
+
+
+* 서버 추가를 통한 성능 향상</br>
+https://github.com/david-learner/java-study/tree/master/서버_성능_향상</br>
