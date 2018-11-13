@@ -72,6 +72,9 @@ https://neontapir.github.io/professional/2017/02/10/ingest-csv-druid/ </br>
 * Setting up Apache Druid in Hadoop for Data visualizations [Tutorial]</br>
 https://hub.packtpub.com/apache-druid-hadoop-data-visualizations-tutorial/ </br>
 
+* Accelerating Hive queries using Druid</br>
+https://docs.hortonworks.com/HDPDocuments/HDP3/HDP-3.0.1/using-druid/content/druid_accelerating_hive_queries.html?fbclid=IwAR0_NvJX4TwdvvMb6il1xAK4yY0jJD_q167e6ctJ9_TOKSDpDqO9lSK6wPs </br>
+
 ### 8차 Druid Meet-up </br>
 * 허정수, NHN : Web analytics at scale with Druid at naver.com - Part 1 </br>
 https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/65329 </br>
