@@ -21,6 +21,9 @@ https://balamaci.ro/kafka-streams-for-stream-processing/</br>
 * Kafka Streams for Stream processing extended version</br>
 https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended?slide=18</br>
 
+* Kafka ecosystem explained</br>
+https://speakerdeck.com/dongjin/kafka-ecosystem-explained</br>
+
 ### Zero copy
 
 * Why Is Kafka So Fast</br>
@@ -66,6 +69,9 @@ https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices</br>
 
 * How we migrated from Cron oriented Facebook Feed to NRT Feed!!!</br>
 https://www.linkedin.com/pulse/how-we-migrated-from-cron-oriented-facebook-feed-nrt-gupta/</br>
+
+* Running Kafka in Production</br>
+https://docs.confluent.io/current/kafka/deployment.html?fbclid=IwAR1M28jb7vaCvhzcfWoY0te7_SdwVgHOy6T6Q-29IeQ1z6H0tNisEYlRBBs</br>
 
 ### KSQL
 
