@@ -27,6 +27,16 @@ http://bhjo0930.tistory.com/entry/Nifi-Custom-Processor-만들기 </br>
 * Custom Processors for Apache NiFi </br>
 https://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi </br>
 
+### Load Balancer 
+
+* NiFi Cluster and Load Balancer</br>
+http://ijokarumawak.github.io/nifi/2016/11/01/nifi-cluster-lb/</br>
+
+### ExecuteScript Python 코딩 방법
+
+* Getting Familiar: The ExecuteScript Processor</br>
+https://www.nifi.rocks/using-the-executescript-processor/</br>
+
 ### Matt Burgess 블로그 (커미터)
 
 * NiFi Commiter blog </br>
