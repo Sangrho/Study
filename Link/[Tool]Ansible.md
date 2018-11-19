@@ -1,6 +1,6 @@
 ### 소개
 
-* Ansible 이해와 활용(DEVIEW 2014) </br>
+* Ansible 이해와 활용(DEVIEW 2014) </br>
 https://www.slideshare.net/deview/1a7ansible?qid=1d0d8a47-4471-4f54-b94f-f9dcdb1be72b&v=&b=&from_search=2</br>
 
 * Ansible 소개 </br>
@@ -30,12 +30,3 @@ https://www.slideshare.net/freepsw/container-micro-service-ansible-rancher-docke
 
 * Ansible과 CloudFormation을 이용한 배포 자동화</br>
 https://www.slideshare.net/awskr/ansible-cloudformation?qid=021705fc-650a-48f1-8c2c-9d851a3f732f&v=&b=&from_search=3</br>
-
-* </br>
-</br>
-
-* </br>
-</br>
-
-* </br>
-</br>
