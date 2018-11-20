@@ -8,6 +8,8 @@ https://blog.naver.com/kletgdgo/221368656491</br>
 
 * Nginx 사용하는 옵션 정리 5_(load balancing)</br>
 https://blog.naver.com/kletgdgo/221368668439</br>
+</br>
+* nginx 설정 쉽게하는 사이트</br>
 
-
+https://nginxconfig.io/
 
