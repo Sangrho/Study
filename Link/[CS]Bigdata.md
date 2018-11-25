@@ -22,3 +22,6 @@ https://www.slideshare.net/charsyam2/soma-search</br>
 
 * 대규모 분산 스토리지(Kage)의 발전과정</br>
 http://tech.kakao.com/2017/01/12/kage/?fbclid=IwAR0LrVTME7xQKprLbKfRzdGleTcXn1XCa8lyoWySoCgI-M4PIOi4PHpJevY</br>
+
+* Massive service basic</br>
+https://www.slideshare.net/charsyam2/massive-service-basic?fbclid=IwAR0ZXb1B-Wf_7wgEiAhG-AaP9r3O3EdNeO3y9DEAvSOSWfNV3nJQwiTQsE8</br>
