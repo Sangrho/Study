@@ -19,3 +19,6 @@ https://d2.naver.com/helloworld/6070967?fbclid=IwAR3Gr7s20EpuMZV8_6uPcM7RxNnvjun
 
 * 아주 심플한 검색엔진의 원리</br>
 https://www.slideshare.net/charsyam2/soma-search</br>
+
+* 대규모 분산 스토리지(Kage)의 발전과정</br>
+http://tech.kakao.com/2017/01/12/kage/?fbclid=IwAR0LrVTME7xQKprLbKfRzdGleTcXn1XCa8lyoWySoCgI-M4PIOi4PHpJevY</br>
