@@ -26,11 +26,14 @@ https://jaceklaskowski.gitbooks.io/spark-streaming/spark-streaming-backpressure.
 * Internals of Spark Streaming </br>
 http://bytecontinnum.com/2015/10/ioss/ </br>
 
+* Interal of Spark Structured Streaming </br>
+https://jaceklaskowski.gitbooks.io/spark-structured-streaming/</br>
+
 * Apache Spark Scheduler </br>
 https://databricks.com/session/apache-spark-scheduler </br>
 
-* Spark Internals of v1.0.2(고대 유물)
-https://github.com/JerryLead/SparkInternals
+* Spark Internals of v1.0.2(고대 유물)</br>
+https://github.com/JerryLead/SparkInternals</br>
 
 ### Streaming
 
