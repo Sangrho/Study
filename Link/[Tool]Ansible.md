@@ -30,3 +30,6 @@ https://www.slideshare.net/freepsw/container-micro-service-ansible-rancher-docke
 
 * Ansible과 CloudFormation을 이용한 배포 자동화</br>
 https://www.slideshare.net/awskr/ansible-cloudformation?qid=021705fc-650a-48f1-8c2c-9d851a3f732f&v=&b=&from_search=3</br>
+
+* Top Tutorials To Learn Ansible</br>
+https://medium.com/quick-code/top-tutorials-to-learn-ansible-33afd23ea160?fbclid=IwAR05MMnDXSTNKisdJaJ5U1xxe_MRCIakZdGnuNhSbw2VZa_MZfuNqviRYVc</br>
