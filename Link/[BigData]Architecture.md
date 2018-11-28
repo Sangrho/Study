@@ -9,3 +9,6 @@ https://towardsdatascience.com/a-brief-introduction-to-two-data-processing-archi
 
 * 빅데이터 아키텍처 </br>
 https://docs.microsoft.com/ko-kr/azure/architecture/data-guide/big-data/ </br>
+
+* 람다 아키텍쳐 (Lambda Architecture) 정리</br>
+http://jhleed.tistory.com/m/122?fbclid=IwAR1ZPQaiRtufk64D5z54zfnhxGsO2FBDgR0LFFpkvzgkzkHi4u3ERzbRJUw</br>
