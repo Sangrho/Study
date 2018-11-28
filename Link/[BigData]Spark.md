@@ -103,6 +103,9 @@ http://why-not-learn-something.blogspot.com/2016/06/spark-streaming-performance-
 * SPARK 설정 Tuning 하기 </br>
 https://m.blog.naver.com/PostView.nhn?blogId=gyrbsdl18&logNo=220880041737&proxyReferer=https%3A%2F%2Fwww.google.com%2F </br>
 
+* Spark performance tuning eng</br>
+https://www.slideshare.net/haiteam/spark-performance-tuning-eng?fbclid=IwAR0zVPkw1lHv3TP2qQ0m4M50_Wrs7Tx4tNBDp9Sku0kBpm_ZBFS4wPg6dKU</br>
+
 ### 모니터링
 
 ### Trouble shotting
