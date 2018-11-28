@@ -15,3 +15,6 @@ http://jhleed.tistory.com/m/122?fbclid=IwAR1ZPQaiRtufk64D5z54zfnhxGsO2FBDgR0LFFp
 
 * Data Warehouse Architecture</br>
 https://www.datasciencecentral.com/profiles/blogs/data-warehouse-architecture</br>
+
+* 빅 데이터 아키텍처</br>
+https://docs.microsoft.com/ko-kr/azure/architecture/data-guide/big-data/?fbclid=IwAR3-3y0kDJraYMmTOs3rib75iMlnH5ibbIJghv0GNlEReiWZks94KP_L7io#kappa-architecture</br>
