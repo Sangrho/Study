@@ -9,3 +9,6 @@ https://www.slideshare.net/heungrae_kim/ss-123344339?fbclid=IwAR3BNaSrj81P_agfPq
 
 * Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축</br>
 https://d2.naver.com/helloworld/9878588?fbclid=IwAR0RpvBt3XE2s5fUaXKAWCOPsYV0_UPQxHfBmY2AkZgeg7sGv98vSkYhnIc</br>
+
+* 엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기</br>
+https://www.slideshare.net/heungrae_kim/ss-123344339?fbclid=IwAR1EnePTyaZyw0yCT1QJOAMrupKJhLGwDdGtEYExt-fHk7yAtJJbtTQt-Uk</br>
