@@ -27,3 +27,6 @@ https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-014-001
 
 * Comparing Sequence Files, ORC Files and Parquet Files</br>
 http://appsintheopen.com/posts/43-comparing-sequence-files-orc-files-and-parquet-files</br>
+
+* Hive - 압축, 시퀀스 파일</br>
+http://develop.sunshiny.co.kr/1033?category=51</br>
