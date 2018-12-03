@@ -18,3 +18,7 @@ https://www.datasciencecentral.com/profiles/blogs/data-warehouse-architecture</b
 
 * 빅 데이터 아키텍처</br>
 https://docs.microsoft.com/ko-kr/azure/architecture/data-guide/big-data/?fbclid=IwAR3-3y0kDJraYMmTOs3rib75iMlnH5ibbIJghv0GNlEReiWZks94KP_L7io#kappa-architecture</br>
+
+* How to build massive service for advance</br>
+https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance?fbclid=IwAR2zhByHadYOJTC0YelaiDZGkZKeCR7QKwJddFwTeHXbR5cpyiHhnwoCY2o</br>
+
