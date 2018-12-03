@@ -25,3 +25,6 @@ http://tech.kakao.com/2017/01/12/kage/?fbclid=IwAR0LrVTME7xQKprLbKfRzdGleTcXn1XC
 
 * Massive service basic</br>
 https://www.slideshare.net/charsyam2/massive-service-basic?fbclid=IwAR0ZXb1B-Wf_7wgEiAhG-AaP9r3O3EdNeO3y9DEAvSOSWfNV3nJQwiTQsE8</br>
+
+* 빅데이터 프레임워크를 활용한 데이터 인프라 구축</br>
+http://blog.dramancompany.com/2017/08/빅데이터-프레임워크를-활용한-데이터-인프라-구축/?fbclid=IwAR3MJalQALGwYKtdXXvanvIaoZGWF_7rLM99NI5U8JuokQVuthpa3RXd0Rs</br>
