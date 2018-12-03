@@ -92,6 +92,9 @@ https://github.com/linkedin/Burrow</br>
 * Kafka offset Monitor (3년 전이 마지막 수정..현 카프카 버전과 안맞는게 많지 않을까)</br>
 https://github.com/quantifind/KafkaOffsetMonitor</br>
 
+* Kafka-monitor from linkein</br>
+https://github.com/linkedin/kafka-monitor</br>
+
 ### Rebalance 
 
 * Partitions Rebalance in Kafka </br>
