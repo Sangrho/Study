@@ -12,4 +12,4 @@ Holland's introduction of a population−based algorithm with crossover, inversi
 - https://www.youtube.com/watch?v=1i8muvzZkPw
 - https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc
 
-It just very easy algorithm. Next step, i will introduce DE(Differential Evolution) and GP(Genetic Programing) which are interested to you. maybe..?
+It just very easy algorithm. Next step, i will introduce DE(Differential Evolution) and GP(Genetic Programing) which are sure to be of interest to you.. maybe..?
