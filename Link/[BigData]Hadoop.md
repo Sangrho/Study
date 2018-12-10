@@ -91,3 +91,10 @@ https://www.popit.kr/sk텔레콤-hadoop-dw-데이터-분석환경-구축사례/ 
 * 멀티테넌트 하둡 클러스터 운영 경험기(Naver deview 2017 - C3) </br>
 https://tv.naver.com/v/2297124 </br>
 
+### Encryption
+
+* CDH </br>
+https://www.cloudera.com/documentation/enterprise/5-12-x/topics/cdh_sg_hdfs_encryption.html</br>
+
+* HDP </br>
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/ch_hdp-security-guide-hdfs-encryption.html</br>
