@@ -6,3 +6,9 @@ http://techalpine.com/why-apache-flink-and-apache-spark-are-used-for-processing-
 
 * Introduction of apache flink kosscon2018 </br>
 https://www.slideshare.net/secret/dhQ4aYqD02SQ11?fbclid=IwAR2RhJOMq8YHpqSXDKbr98pbk9MEVnS19Hu_4O9AUaWa5VJQRVtnz15UlSE </br>
+
+* 아파치 실시간 처리 프레임워크 비교분석 (1)</br>
+https://www.popit.kr/아파치-실시간-처리-프레임워크-비교분석-1/</br>
+
+* 아파치 실시간 처리 프레임워크 비교분석 (2)</br>
+https://www.popit.kr/아파치-실시간-처리-프레임워크-비교분석-2/</br>
