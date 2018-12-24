@@ -106,6 +106,10 @@ https://m.blog.naver.com/PostView.nhn?blogId=gyrbsdl18&logNo=220880041737&proxyR
 * Spark performance tuning eng</br>
 https://www.slideshare.net/haiteam/spark-performance-tuning-eng?fbclid=IwAR0zVPkw1lHv3TP2qQ0m4M50_Wrs7Tx4tNBDp9Sku0kBpm_ZBFS4wPg6dKU</br>
 
+* Tuning Java Garbage Collection for Spark Applications</br>
+http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433</br>
+
+
 ### 모니터링
 
 ### Trouble shotting
