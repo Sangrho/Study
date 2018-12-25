@@ -66,6 +66,23 @@
     - RDD transformation 과정에서 memory를 관리하는 JVM heap space
 - heap space의 비율은 `spark.storage.memoryFraction * heap size`가 넘지 못하도록 설정 되며, 조절 가능하다.
 - 사용되지 않은 RDD Cached도 JVM에 의해 사용됨 
+- GC latency에 의해 효율성 저하 시,
+    - spark app이 memory limit을 넘었는지 확인
+- memory를 적게 차지할 수록, program 실행을 위한 **heap 공간**이 더 많이 남게 됨
+    - **GC의 효율성 증가**
+- RDD의 메모리 사용이 높으면 
+    - old generation의 많은 수의 buffered object 존재 -> 성능 저하 발생
+- GC가 너무 자주 또는 오랜 시간 지속되는 것이 관측 되면 
+    - 메모리 공간이 비효율적으로 사용되고 있음을 암시 
+    - 성능을 개선하기 위해
+        - 명시적으로 사용되지 않은 **cached RDD**를 **clean up** 해주어야 한다.
+
+### Choosing a Garbage Collector
+- Environment
+    - 4대의 클러스터 
+    - executor별 88G heap
+- Before Tuning Configuration
+    - `-XX:+UseParallelGC -XX:+UseParallelOldGC -XX:+PrintFlagsFinal -XX:+PrintReferenceGC -verbose:gc -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintAdaptiveSizePolicy -Xms88g -Xmx88g`
 
 
 referenced by. [preepsw](http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433)
