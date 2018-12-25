@@ -85,4 +85,5 @@
     - `-XX:+UseParallelGC -XX:+UseParallelOldGC -XX:+PrintFlagsFinal -XX:+PrintReferenceGC -verbose:gc -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+PrintAdaptiveSizePolicy -Xms88g -Xmx88g`
 
 
+
 referenced by. [preepsw](http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433)
