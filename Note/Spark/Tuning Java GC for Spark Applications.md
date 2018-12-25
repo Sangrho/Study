@@ -242,4 +242,6 @@
     - Future spark의 메모리 관리는
         - **java**가 아닌 **spark**에 중점
         - [project-tungsten-bringing-spark-closer-to-bare-metal](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
-referenced by. [preepsw](http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433)
+
+
+- referenced by. [preepsw](http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433)
