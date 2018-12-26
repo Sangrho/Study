@@ -39,6 +39,7 @@
 ## Writers </br></br>
 **[ 개발 ]** </br>
 @[Wshid](https://github.com/Wshid) : Spark 개발 in Students </br>
+@[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR
 
 **[ 운영 ]** </br>
 @[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Plus</br>
