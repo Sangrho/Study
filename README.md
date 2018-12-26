@@ -39,16 +39,8 @@
 ## Writers </br></br>
 **[ 개발 ]** </br>
 @[Wshid](https://github.com/Wshid) : Spark 개발 in Students </br>
-@[tovec](https://github.com/tovec) : Spark 개발 in NHN</br>
-@[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
-@[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
-@[buckyhan](https://github.com/buckyhan) : Computer in Jehmi, Inc</br>
-
 
 **[ 운영 ]** </br>
-@[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
-@[manu625](https://github.com/manu625) : Hadoop 클러스터 운영 in KTNexR </br>
-@[sincerity10](https://github.com/sincerity10) : Hadoop 클러스터 운영 in KTNexR</br>
 @[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Plus</br>
 
 **[ 머신러닝 ]** </br>
@@ -56,5 +48,4 @@
 
 **[ DA ]**</br>
 @[yysun21](https://github.com/yysun21) : ETL in SKT </br>
-@[boraboraborabora](https://github.com/boraboraborabora) : DA in NHNent </br>
-@[SJLee357](https://github.com/SJLee357) : ETL in Netmable </br>
+
