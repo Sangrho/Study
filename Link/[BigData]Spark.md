@@ -35,6 +35,10 @@ https://databricks.com/session/apache-spark-scheduler </br>
 * Spark Internals of v1.0.2(고대 유물)</br>
 https://github.com/JerryLead/SparkInternals</br>
 
+* Cost Based Optimizer in Apache Spark 2.2</br>
+https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html</br>
+
+
 ### Streaming
 
 * Spark Streaming으로 유실 없는 스트림 처리 인프라 구축하기 </br>
