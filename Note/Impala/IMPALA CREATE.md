@@ -1,4 +1,4 @@
-## IMPALA CREATE TABLE
+## IMPALA CREATE
 - 임팔라 사용법을 간단하게 확인하기 
 
 ### CREATE TABLE FORMAL
