@@ -22,6 +22,9 @@ https://jpmens.net/2012/08/09/i-grok-how-to-mutate-a-file-with-logstash/
 * Test grok patterns
 http://grokconstructor.appspot.com/do/match
 
+* Http_poller input plugin
+https://www.elastic.co/guide/en/logstash/6.5/plugins-inputs-http_poller.html
+
 ### 사용사례
 
 * Logstash 사용
