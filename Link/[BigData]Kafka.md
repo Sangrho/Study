@@ -95,6 +95,9 @@ https://github.com/quantifind/KafkaOffsetMonitor</br>
 * Kafka-monitor from linkein</br>
 https://github.com/linkedin/kafka-monitor</br>
 
+* Monitoring Kafka performance metrics</br>
+https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/?fbclid=IwAR1OAXJDntkbAFRsQ-at4mL3tz0Yf4aWQjt8G0NIAwIyDi6nYSMbc7QT6RU</br>
+
 ### Rebalance 
 
 * Partitions Rebalance in Kafka </br>
