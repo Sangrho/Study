@@ -38,7 +38,7 @@
 
 ## Writers </br></br>
 **[ 개발 ]** </br>
-@[Wshid](https://github.com/Wshid) : Spark 개발 in Students </br>
+@[Wshid](https://github.com/Wshid) : 개발 in Naver Webtoon </br>
 @[tovec](https://github.com/tovec) : Spark 개발 in NHN</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
 @[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
