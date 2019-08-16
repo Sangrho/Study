@@ -39,7 +39,7 @@
 ## Writers </br></br>
 **[ 개발 ]** </br>
 @[Wshid](https://github.com/Wshid) : 개발 in Naver Webtoon </br>
-@[tovec](https://github.com/tovec) : Spark 개발 in NHN</br>
+@[tovec](https://github.com/tovec) : Spark 개발 in Naver</br>
 @[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in KTNexR</br>
 @[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in KTNexR</br>
 @[buckyhan](https://github.com/buckyhan) : Hadoop 클러스터 운영 in LINE Plus</br>
