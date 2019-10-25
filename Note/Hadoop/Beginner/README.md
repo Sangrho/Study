@@ -1,0 +1,1 @@
+For Hadoop beginner
