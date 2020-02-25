@@ -1,0 +1,146 @@
+
+[ Chapter 9 ] 
+
+
+ 9.1 데이터소스API의구조
+ 9.1.1 읽기APl구조
+ 	- 기본 포맷 
+ 		DataFrameReader.format(. ..).option(‘'key'', .value'').5chema(. ..).load()
+ 9.1.2 데이터읽기의기초 
+ 9.1.3 쓰기APl구조
+ 	- 기본 포맷
+ 		DataFrameWriter.format( ) .option( ..)partitionBy( ..)bucketBy( ...).sortBy( ...).save()
+ 9.1.4 데이터쓰기의기초 
+
+ 9.2 CSV파일
+ 9.2.1 CSV옵션
+ 	- inferSchema : 스파크가 파일을 잃을 때 컬럼의 데이터 타입을 추론할지 정의
+ 	- nullValue : 파일에서 null 값을 나타내는 문자
+ 	- dateFormat : 자바의 SimpleDateFormat 을 따르는 모든 문자열 또는 문자 
+ 9.2.2 CSV파일읽기
+ 	스파크는 지연 연산 특성이 있으므로 DataFrame 저으이 시점이 아닌 잡 실행 시점에만 오류가 발생한다. 
+ 9.2.3 CSV파일쓰기
+ 	써지는 파일의 개수는 쓰는 시점의 DataFrame 의 파티션수를 반영한다. 
+
+ 9.3 JSON파일
+ 	CSV 와 다르게 객체이다. 
+ 9.3.1 JSON옵션
+ 9.3.2 JSON파일읽기
+ 9.3.3 JSON파일쓰기
+
+ 9.4 파케이파일
+ 	스파크에 최적화 되어 있다. 
+ 	저장소 공간을 절약할 수 있고 전체 파일을 읽는 대신 개별 커럼을 읽을 수 있으며, 컬럼 기반의 압축 기능을 제공한다. 
+ 	읽기 연산 시 JSON, CSV 보다 훨씬 효율적으로 동작하므로 장기 저장용 데이터는 파케이 포맷으로 저장하는 것이 좋다. 
+ 9.4.1 파케이파일읽기
+ 	옵션이 거의 없는데, 데이터를 저장할 때 자체 스키마를 사용해 데이터를 저장하기 때문이다. 
+ 	CSV 파일에서 inferSchema 를 사용하는 것과 유사하게 읽는 시점에 스키마를 알수 있다. (스키마 온 리드) 
+ 	mergeSchema Option 써볼꽈? 
+ 9.4.2 파케이파일쓰기
+
+ 9.5 ORC 파일
+ 	하이브에 최적화되어있다. 
+ 	- numPartitions : 테이블의 데이터를 병렬로 읽거나 쓰기 작업에 사용할 수 있는 최대 파티션 수를 결정한다. 이 속성은 최대 동시 JDBC 연결수를 결정한다. 쓰기에서 사용되는 파티션 수가 이 값을 초과하는 경우 쓰기 연산 전에 coalesce(numPartitions) 를 실행해 파티션 수를 이 값에 맞게 줄이게 된다.
+ 	- partitionColumn, lowerBound, upperBound : 세 가지 옵션은 항상 같이 지정해야 하며, numPartitions 도 반드시 지정해야 한다.
+ 												이러한 속성은 다수의 워커에서 병렬로 테이블을 나눠 읽는 방법을 정의한다. partitionColumn 은 반드시 해당 테이블의 수치형 컬럼이어야 한다. 
+ 	(SaveMode.Overwrite 를 사용하면 스파크는 기존 테이블을 삭제하거나 재생성하는 대신 데이터베이스의 truncate 명령을 실행한다.) 
+ 9.5.1 ORC파일읽기
+ 9.5.2 ORC파일쓰기
+
+ 9.6 SQL데이터베이스
+ 9.6.1 SQL데이터베이스읽기
+ 9.6.2 쿼리푸시다운
+ 	스파크는 DataFrame 을 만들기 전에 데이터베이스 자체에서 데이터를 필터링하도록 만들 수 있다.
+ 	예를 들어 이전 예제에서 사용한 쿼리의 실행 계획을 들여다보면 테이블의 여러 컬럼 중 관련 있는 컬럼만 선택한다는 것을 알 수 있다.
+
+	== Physical Plan ==
+	*Ha5hAggregate(keys=[DEST_COUNTRY NAME#8108], functions=[]) 
+		+- Exchange hashpartitioning(DEST_COUNTRY NAME#81@8, 200)
+			+. *HashAggregate(key5=[DEST_COUNTRY NAME#8108], functions=[]) 
+				+-*5canJDBCRelation(flight_info) [numPartitions=1] .‘.
+
+	스파크는 특정 유형의 쿼리를 더 나은 방식으로 처리할 수 있다. 예를 들어 DataFrame 에 필터를 명시하면 스파크는 해당 필터에 대한 처리를 데이터베이스로 위암한다.
+
+	* 데이터페이스 병렬로 읽기
+	- 스파크는 파일 크기, 파일 유형 그리고 압축 방식에 따른 '분할 가능성' 에 따라 여러 파일을 읽어 하나의 파티션으로 만들거나 여러 파티션을 하나의 파일로 만드는 기본 알고리즘을 가지고 있다. 파일이 가진 이런 유연성은 SQL 데이터베이스에도 존재하지만 몇 가지 수동 설정이 필요하다. 이전 옵션 목록 중 numPartitions 옵션을 사용해 읽기 및 쓰기용 동시 작업 수를 제한할 수 있는 최대 파티션 수를 설정할 수 있다. 
+	- 슬라이딩 윈도우 기반의 파티션이
+	조건절을 기반으로 분할할 수 있는 방법을 알아보자.
+	스파크는 데이터베이스에 병렬로 쿼리를 요청하며 numPartitions 에 설정된 값만큼 파티션을 반환한다. 그리고 파티션에 값을 할당하기 위해 상한값과 하한값을 수정한다.
+
+	colName = ''count''
+	lowerBound=0L
+	upperBound = 348113L # 예재 데이터베이스의 데이터 최대 개수입니다. 
+	numPartitions = 10
+
+	5park.read.jdbc(ur1, tablename, column=colName, propertieS=props,
+	1owerBound=1owerBound, upperBound=upperBound,
+	numPartition5=numPartitions).count()#255
+
+
+ 9.6.3 SQL데이터베이스쓰기
+
+ 9.7 텍스트파일
+ 9.7.1 텍스트파일읽기
+ 9.7.2 텍스트파일쓰기
+
+ 9.8 고급I/O개념
+ 	쓰기 작업 전에 파티션 수를 조절함으로써 병렬로 처리할 파일 수를 제어할 수 있다.
+ 	또한 버켓팅과 파티셔닝을 조절함으로써 데이터의 저장 구조를 제어할 수 있다.
+ 9.8.1 분합가능한파일타입과압축방식
+ 	추천하는 파일 포맷과 압축 방식은 파케이 파일 포맷과 GZIP 압축 방식이다.
+ 9.8.2 병렬로데이터읽기
+ 	여러 익스큐터가 같은 파일을 동시에 읽을 수는 없지만 여러 파일을 동시에 읽을 수는 있다.
+ 	다수의 파일이 존재하는 폴더를 읽을 때 폴더의 개별 파일은 DataFrame 의 파티션이 된다.
+ 	따라서 사용 가능한 익스큐터를 이용해 병렬(익스큐터 수를 넘어가는 파일은 처리 중인 파일이 완료될 떄까지 대기) 로 파일을 읽는다.
+ 9.8.3 병렬로데이터쓰기
+ 	파일이나 데이터 수는 데이터를 쓰는 시점에 DataFrame 이 가진 파티션 수에 따라 달라질 수 있다.
+ 	기본적으로 데이터 파티션 당 하나의 파일이 작성된다. 따라서 옵션에 지정된 파일명은 실제로는 다수의 파일을 가진 디렉터리이다.
+ 	그리고 디렉터리 안에 파티션당 하나의 파일로 데이터를 저장한다.
+
+ 	* 파티셔닝
+ 	페티셔닝은 어떤 데이터를 어디에 젖아할 것인지 제어할 수 있는 기능이다.
+ 	파티셔닝된 디렉터리 또는 테이블에 파일을 쓸 때 디렉터리별로 컬럼 데이터를 인코딩해 저장한다.
+ 	그러므로 데이터를 읽을 때 전체 데이터 셋을 스캔하지 않고 필요한 컬럼의 데이터만 읽을 수 있다.
+
+ 	CsvFile.1imit(10).Write.mode(‘'overwrite'.).partitionBy(''DESTCOUNTRYNAME‘')l
+	.save('./tmp/partitioned-files.parquet.')
+
+	결과는 아래와 같다.
+	$ 1s /tmp/partitioned-file5.parquet
+	DEST COUNTRY NAME=Costa Rica/
+	DE5T COUNTRY NAME=Egypt/
+	DE5T COUNTRY NAME=Equatorial 6uinea/ DEST COUNTRY NAME=5enegal/
+	DEST COUNTRY NAME=United 5tates/
+
+	각 폴더는 조건절을 폴더명으로 사용하며 조건절을 만족하는 데이터가 저장된 파케이 파일을 가지고 있다.
+
+	파티셔닝은 필터링을 자주 사용하는 테이블을 가진 경우에 사용할 수 있는 가장 손쉬운 최적화 방식이다. 
+	예를 들어 전체 데이터를 스캔하지 않고 지난주 데이터만 보려면 날짜를 기준으로 파티션을 만들 수 있다.
+	이 기법을 사용하면 빠른 속도로 데이터를 읽어 들일 수 있다.
+
+	* 버켓팅
+	버켓팅은 각 파일에 저장된 데이터를 제어할 수 있는 또 다른 파일 조직화 기법이다.
+	이 기법을 사용하면 동일한 버킷 ID 를 가진 데이터가 하나의 물리적 파티션에 모두 모여 있기 때문에 데이터를 읽을 때 셔플을 피할 수 있다.
+	즉, 데이터가 이후의 사용 방식에 맞춰 사전에 파티셔닝되므로 조인이나 집계 시 발생하는 고비용의 셔플을 피할 수 있다.
+
+	특정 컬럼을 파티셔닝하면 수억 개의 디렉터리를 만들어낼 수 도 있다. 이런 경우 데이터를 버켓팅할 수 있는 방법을 찾아야 한다.
+	다음은 '버켓' 단위로 데이터를 모아 일정 수의 파일로 저장하는 예이다.
+
+	val numberBuckets = 10
+	val cOIumnTOBucketBy = '.count''
+	csvFile .write .format('’parquet').mode(''overwrite') .bucketBy(numberBuckets, columnToBucketBy).saveAsTable(''bucketedFileS'’)
+	$ ls /user/hive/warehouse/bucketedfiles/ 
+	part-00@@0=tid-1020575097626332666-8. . . .
+	parquet part.0@0@0.tid-1020575097626332666.8. . . .
+	parquet part-00000.tid.1020575097626332666.8. . . .
+
+	상세내용은 여기서 확인하자.
+	https://databricks.com/session/why-you-should-care-about-data-layout-in-the-filesystem
+
+ 9.8.4 복합데이터유형쓰기
+ 9.8.5 파일크기관리
+ 	파일 크기를 관리하는 것은 데이터를 저장할 때는 중요한 요소가 아니다. 하지만 데이터를 읽을 때는 중요한 요소 중 하나다.
+ 	작은 파일을 많이 생성하면 메타데이터에 엄청난 관리부하가 발생한다. HDFS 같은 많은 파일 시스템은 작은 크기의 파일을 잘 다루지 못한다. 스파크느 ㄴ특히 더 그렇다.
+ 	스파크는 이런 문제를 해결하기 위해서, 결과 파일을 최적의 크기로 제한할 수 있는 새로운 기능을 제공한다.
+ 	'maxRdcordsPerFile' 옵션에 파일다 ㅇ레코드 수를 지정한다. 각 파일에 기록될 레코드 수를 조절할 수 있으므로 파일 크기를 더 효과적으로 제어할 수 있다.
+ 	만약 파일 쓰기 객체에 다음과 같은 옵션을 설정했따면 스파크는 파일당 최대 5,000개의 로울을 포함하도록 보장할 수 있다.
