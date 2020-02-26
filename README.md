@@ -52,8 +52,8 @@
 
 **[ 머신러닝 ]** </br>
 @[JunyoungJang](https://github.com/JunyoungJang) : Machine Learning in KB Securities</br>
+@[tuhm](https://github.com/tuhm) : Machine Learning in LINE Plus  
 
 **[ DA ]**</br>
 @[yysun21](https://github.com/yysun21) : ETL in SKT </br>
 @[boraboraborabora](https://github.com/boraboraborabora) : DA in NHNent </br>
-@[SJLee357](https://github.com/SJLee357) : ETL in Netmable </br>
