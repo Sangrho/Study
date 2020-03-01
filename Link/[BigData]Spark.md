@@ -113,7 +113,8 @@ https://www.slideshare.net/haiteam/spark-performance-tuning-eng?fbclid=IwAR0zVPk
 * Tuning Java Garbage Collection for Spark Applications</br>
 http://blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220680331433</br>
 
-
+*Master Spark fundamentals & optimizations   
+https://www.streamhub.co.uk/apache-spark-tuning-manual/  
 ### 모니터링
 
 ### Trouble shotting
