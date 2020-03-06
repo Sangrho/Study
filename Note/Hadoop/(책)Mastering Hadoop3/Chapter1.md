@@ -14,10 +14,7 @@ Hadoop 3로 넘어오면서 중요 포인트는
 - Support for three name nodes,  
 - Intra-data-node load balancers  
   
-#### Hadoop origins and Timelines  
-Origins  
-MapReduce origin  
-Timelines  
+
 #### Overview of Hadoop 3 and its features  
 HDFS 는 기본적으로 3 복제 정책을 갖고 있다. Data locality 와 Fualt-tolerant, 데이터노드에서의 로드밸런싱에는 좋다.  
 하지만 이는 곳 200% 이상의 오버헤드를 갖고 있다.  
@@ -46,10 +43,7 @@ JNI 측면에서 효율성을 강조하였다. 셔플이 많은 작업에 유용
 ![image](https://user-images.githubusercontent.com/4033129/76091027-18c43600-6000-11ea-9f86-9cc8a36b791b.png)  
   
 #### Hadoop distributions  
-On-premise distribution  
-Cloud distributions  
 Points to remember  
-  
 - Doug Cutting, the founder of Hadoop, started the development of Hadoop at Nutch based on a Google research paper on Google File System and MapReduce.  
 - Apache Lucene is a full-text open-source search library initially written by Doug Cutting in Java.  
 - Hadoop consists of two important parts, one called the Hadoop Distributed File System and the other called MapReduce.  
