@@ -56,4 +56,4 @@
 
 **[ DA ]**</br>
 @[yysun21](https://github.com/yysun21) : ETL in SKT </br>
-@[boraboraborabora](https://github.com/boraboraborabora) : DA in NHNent </br>
+@[boraboraborabora](https://github.com/boraboraborabora) : DA in Kakao pay </br>
