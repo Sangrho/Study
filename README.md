@@ -38,11 +38,11 @@
 
 ## Writers </br></br>
 **[ 개발 ]** </br>
-@[Wshid](https://github.com/Wshid) : 개발 in Naver Webtoon </br>
+@[Wshid](https://github.com/Wshid) : Data Engineer in Naver Webtoon </br>
 @[tovec](https://github.com/tovec) : Spark 개발 in Naver</br>
-@[arthas-choi](https://github.com/arthas-choi) : Bigdata Platform 개발 in 베스핀글로벌</br>
-@[rheor108](https://github.com/rheor108) : Real-time Bigdata Platform 개발 in 요기요</br>
-@[buckyhan](https://github.com/buckyhan) : Hadoop 클러스터 운영 in LINE Plus</br>
+@[arthas-choi](https://github.com/arthas-choi) : Data Engineer in 베스핀글로벌</br>
+@[rheor108](https://github.com/rheor108) : Data Engineer in 요기요</br>
+@[buckyhan](https://github.com/buckyhan) : Data Engineer in Naver Financial</br>
 	
 **[ 운영 ]** </br>
 @[kaiser-ryu](https://github.com/kaiser-ryu) : Hadoop 클러스터 운영 in SKT </br>
@@ -51,8 +51,8 @@
 @[Sangrho](https://github.com/Sangrho) : Hadoop 클러스터 운영 in LINE Plus</br>
 
 **[ 머신러닝 ]** </br>
-@[JunyoungJang](https://github.com/JunyoungJang) : Machine Learning in KB Securities</br>
-@[tuhm](https://github.com/tuhm) : Machine Learning in LINE Plus  
+@[JunyoungJang](https://github.com/JunyoungJang) : Quant in KB Securities</br>
+@[tuhm](https://github.com/tuhm) : Data Scientist in TOSS  
 
 **[ DA ]**</br>
 @[yysun21](https://github.com/yysun21) : ETL in SKT </br>
